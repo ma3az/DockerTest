@@ -1,0 +1,5 @@
+C:\Users\dev\Desktop\DockerWork\DockerApiProject
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=DockerApiProject
+--content-root=C:\Users\dev\Desktop\DockerWork\DockerApiProject
+--file=
