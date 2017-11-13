@@ -18,7 +18,7 @@ namespace DockerApiProject
         }
 
         public static IWebHost BuildWebHost(string[] args) =>
-            WebHost.CreateDefaultBuilder(args)
+            WebHost.CreateDefaultBuilder(args).UseUrls("http://*:9090")
                 .UseStartup<Startup>()
                 .Build();
     }
