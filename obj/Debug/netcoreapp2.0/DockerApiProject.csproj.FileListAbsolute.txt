@@ -1,0 +1,11 @@
+C:\Users\dev\Desktop\DockerWork\DockerApiProject\bin\Debug\netcoreapp2.0\DockerApiProject.deps.json
+C:\Users\dev\Desktop\DockerWork\DockerApiProject\bin\Debug\netcoreapp2.0\DockerApiProject.runtimeconfig.json
+C:\Users\dev\Desktop\DockerWork\DockerApiProject\bin\Debug\netcoreapp2.0\DockerApiProject.runtimeconfig.dev.json
+C:\Users\dev\Desktop\DockerWork\DockerApiProject\bin\Debug\netcoreapp2.0\DockerApiProject.dll
+C:\Users\dev\Desktop\DockerWork\DockerApiProject\bin\Debug\netcoreapp2.0\DockerApiProject.pdb
+C:\Users\dev\Desktop\DockerWork\DockerApiProject\obj\Debug\netcoreapp2.0\DockerApiProject.csprojResolveAssemblyReference.cache
+C:\Users\dev\Desktop\DockerWork\DockerApiProject\obj\Debug\netcoreapp2.0\DockerApiProject.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\DockerWork\DockerApiProject\obj\Debug\netcoreapp2.0\DockerApiProject.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\DockerWork\DockerApiProject\obj\Debug\netcoreapp2.0\DockerApiProject.AssemblyInfo.cs
+C:\Users\dev\Desktop\DockerWork\DockerApiProject\obj\Debug\netcoreapp2.0\DockerApiProject.dll
+C:\Users\dev\Desktop\DockerWork\DockerApiProject\obj\Debug\netcoreapp2.0\DockerApiProject.pdb

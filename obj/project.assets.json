@@ -12542,11 +12542,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\dev\\Documents\\Visual Studio 2017\\Projects\\DockerApiProject\\DockerApiProject.csproj",
+      "projectUniqueName": "C:\\Users\\dev\\Desktop\\DockerWork\\DockerApiProject\\DockerApiProject.csproj",
       "projectName": "DockerApiProject",
-      "projectPath": "C:\\Users\\dev\\Documents\\Visual Studio 2017\\Projects\\DockerApiProject\\DockerApiProject.csproj",
+      "projectPath": "C:\\Users\\dev\\Desktop\\DockerWork\\DockerApiProject\\DockerApiProject.csproj",
       "packagesPath": "C:\\Users\\dev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dev\\Documents\\Visual Studio 2017\\Projects\\DockerApiProject\\obj\\",
+      "outputPath": "C:\\Users\\dev\\Desktop\\DockerWork\\DockerApiProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
